@@ -1,6 +1,6 @@
 {
-  "name": "syncing",
-  "version": "0.0.2",
+  "name": "syncingjs",
+  "version": "0.0.1",
   "private": false,
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/n1ckfg/syncing.git"
+    "url": "git+https://github.com/n1ckfg/syncingjs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/n1ckfg/syncing/issues"
+    "url": "https://github.com/n1ckfg/syncingjs/issues"
   },
-  "homepage": "https://github.com/n1ckfg/syncing#readme"
+  "homepage": "https://github.com/n1ckfg/syncingjs#readme"
 }
